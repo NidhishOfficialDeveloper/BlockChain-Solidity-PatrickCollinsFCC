@@ -1,0 +1,2 @@
+# BlockChain-Solidity-PatrickCollinsFCC
+This is a github repository to showcase what I learnt from this awesome tutorial on FreeCodeCamp's Youtube Channel on Blockchain Development by Patrick Collins. This course will dives into all of the core concepts in blockchain, smart contracts, solidity, NFTs/ERC721s, ERC20s, Coding Decentralized Finance (DeFi), python and solidity, Chainlink, Ethereum, upgradable smart contracts, and full stack blockchain development. 
